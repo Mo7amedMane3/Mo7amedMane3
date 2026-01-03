@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamed Manea</h1>
+<h3 align="center">Flutter & Mobile App Developer 🚀</h3>
 
-<!--
-**Mo7amedMane3/Mo7amedMane3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohamedManea&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 📱 Flutter & Mobile App Developer  
+- 🎨 Passionate about UI/UX & clean architecture  
+- 🧠 Strong problem-solving mindset  
+- 🌱 Always learning new technologies  
+- 🔧 Love turning ideas into real applications  
+
+---
+
+## 🛠 Tech Stack & Skills
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### 🗄 Backend & Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+
+### ⚙ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
+
+---
+
+## 📂 Featured Projects
+
+### 📝 Notes App (Flutter)
+- CRUD Notes App
+- Responsive UI
+- Local Storage / Firebase
+- Flutter Best Practices
+
+### 📿 Islami App (Flutter UI)
+- Animated Sebha
+- Tasbeeh Counter (30 counts)
+- Islamic UI Design
+
+
+
+---
+
+
+
+## 🔗 Connect With Me
+
+- 💼 GitHub: https://github.com/MohamedManea
+- 📧 Email: mohmdmane3@gmail.com
+- 💬 LinkedIn: (ضيف اللينك هنا)
+
+---
+
+## ⚡ Fun Fact
+I enjoy solving bugs more than writing new code 😄  
+Always learning, always building 🚀
