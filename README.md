@@ -34,7 +34,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
-
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=ffdd54)
 ### ⚙ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -47,16 +47,28 @@
 
 ## 📂 Featured Projects
 
-### 📝 Notes App (Flutter)
-- CRUD Notes App
-- Responsive UI
-- Local Storage / Firebase
-- Flutter Best Practices
+### 📱 Blood Bridge
+A full Islamic mobile application with Quran, Hadith, Sebha, and Islamic content.  
+Built with clean architecture and smooth UI.
 
-### 📿 Islami App (Flutter UI)
-- Animated Sebha
-- Tasbeeh Counter (30 counts)
-- Islamic UI Design
+🔗 Repository: **(Add link here)**  
+**Tech:** Flutter • Dart • Assets • UI Design
+
+---
+
+### 📝 Bookly App
+A simple and efficient notes application for creating and managing daily notes.
+
+🔗 Repository: **(Add link here)**  
+**Tech:** Flutter • Dart • Local Storage
+
+---
+
+### 📊 Responsive Dashboard
+A responsive dashboard UI that adapts to different screen sizes.
+
+🔗 Repository: **(Add link here)**  
+**Tech:** Flutter • Dart • Responsive UI
 
 
 
