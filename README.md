@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Manea</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Mane3</h1>
 <h3 align="center">Flutter & Mobile App Developer 🚀</h3>
 
 <p align="center">
@@ -9,15 +9,24 @@
 
 ## 👨‍💻 About Me
 
-- 📱 Flutter & Mobile App Developer  
-- 🎨 Passionate about UI/UX & clean architecture  
+- 📱 Flutter & Mobile App Developer    
 - 🧠 Strong problem-solving mindset  
 - 🌱 Always learning new technologies  
-- 🔧 Love turning ideas into real applications  
+- 🔧 Love turning ideas into real applications
+- 📫 How to reach me <strong><a href="mailto:mohmdmane3@gmail.com">mohmdmane3@gmail.com</a></strong>
+- ⚡ Fun Fact
+I enjoy solving bugs more than writing new code  
+Always learning, always building 🚀
+
+
+ 🔗 Connect With Me
+
+<p align="left" dir="auto">
+<a href="https://linkedin.com/in/www.linkedin.com/in/mohamed-manea-a501a8320/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-manea-a501a8320/"height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
+<a href="https://fb.com/tharwat samy" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamed Manea" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
 
 ---
-
-## 🛠 Tech Stack & Skills
+## 🛠 Languages and Tools:
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
@@ -72,18 +81,13 @@ A responsive dashboard UI that adapts to different screen sizes.
 
 
 
----
 
 
 
-## 🔗 Connect With Me
 
-- 💼 GitHub: https://github.com/MohamedManea
-- 📧 Email: mohmdmane3@gmail.com
-- 💬 LinkedIn: (ضيف اللينك هنا)
 
----
 
-## ⚡ Fun Fact
-I enjoy solving bugs more than writing new code 😄  
-Always learning, always building 🚀
+
+
+
+
