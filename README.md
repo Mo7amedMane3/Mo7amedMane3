@@ -23,7 +23,7 @@ Always learning, always building 🚀
 
 <p align="left" dir="auto">
 <a href="https://linkedin.com/in/www.linkedin.com/in/mohamed-manea-a501a8320/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-manea-a501a8320/"height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
-<a href="https://fb.com/tharwat samy" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamed Manea" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
+<a href="https://fb.com/mohame.manea" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamed Manea" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
 
 ---
 ## 🛠 Languages and Tools:
