@@ -1,56 +1,103 @@
-<h1 align="center">Hi 👋, I'm Mohamed Mane3</h1>
-<h3 align="center">Flutter & Mobile App Developer 🚀</h3>
+<div align="center">
+  <a href="https://Mo7amedMane3.github.io/">
+    <img src="https://vfsndkebozvffcnzghrk.supabase.co/storage/v1/object/public/profile-pictures/logo.png" alt="Mohamed Manea - Profile" width="150">
+  </a>
+  <h1>Hi there, I'm Mohamed Manea 👋</h1>
+  <h3>A Flutter Developer from Egypt 🇪🇬</h3>
+
+  <p align="center">
+    <a href="https://Mo7amedMane3.github.io/" target="_blank">
+      <img src="https://img.shields.io/badge/View%20My%20Portfolio-00B171?style=for-the-badge&logo=rocket&logoColor=white" alt="View Portfolio">
+    </a>
+  </p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a skilled Flutter Developer with 2+ years of experience specializing in building and maintaining high-quality, scalable mobile applications. I have a strong passion for creating beautiful UIs, delivering an exceptional user experience, and writing clean, efficient code.
+
+-   🔭 I’m currently expanding my skills into native Android/iOS development to complement my Flutter expertise.
+-   🌱 I’m always learning about **Flutter performance optimization and advanced animations**.
+-   💬 Ask me about **Flutter, Dart, State Management (Bloc), and Clean Architecture**.
+-   📫 How to reach me: **mohmdmane3@gmail.com**
+-   ⚡ Fun fact: I believe a great app is a perfect blend of art and engineering.
+
+---
+
+###  STATUS
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedManea&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="mailto:mohmdmane3@gmail.com">
+    <img src="https://img.shields.io/badge/Available%20for%20Freelance-YES-brightgreen?style=for-the-badge&logo=freelancer" alt="Available for Freelance">
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🛠️ My Tech Stack
 
-- 📱 Flutter & Mobile App Developer    
-- 🧠 Strong problem-solving mindset  
-- 🌱 Always learning new technologies  
-- 🔧 Love turning ideas into real applications
-- 📫 How to reach me <strong><a href="mailto:mohmdmane3@gmail.com">mohmdmane3@gmail.com</a></strong>
-- ⚡ Fun Fact
-I enjoy solving bugs more than writing new code  
-Always learning, always building 🚀
+#### Mobile & Frontend
+<p align="left">
+  <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"></a>
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+</p>
 
+#### Backend, Database & BaaS
+<p align="left">
+  <a href="https://supabase.io" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+</p>
 
- 🔗 Connect With Me
+#### DevOps & Tools
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://about.gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"></a>
+  <a href="https://pages.github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"></a>
+  <a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"></a>
+</p>
 
-<p align="left" dir="auto">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mohamed-manea-a501a8320/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-manea-a501a8320/"height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
-<a href="https://fb.com/mohame.manea" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamed Manea" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
+#### Design & Project Management
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"></a>
+  <a href="https://trello.com/" target="_blank"><img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
+</p>
 
 ---
-## 🛠 Languages and Tools:
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+### 🔗 Let's Connect!
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🗄 Backend & Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=ffdd54)
-### ⚙ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+<p align="center">
+  <a href="http://www.linkedin.com/in/mohamed-manea-a501a8320">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Mo7amedMane3">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:mohmdmane3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://wa.me/201090557821">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://www.instagram.com/aboman3a?igsh=MW9jYXhnZGZ0dGozcA==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/share/mohamed-manea-a501a8320/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
 
 ---
 
