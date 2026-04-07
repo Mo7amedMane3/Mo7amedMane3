@@ -1,6 +1,5 @@
 <div align="center">
   <a href="https://Mo7amedMane3.github.io/">
-    <img src="https://vfsndkebozvffcnzghrk.supabase.co/storage/v1/object/public/profile-pictures/logo.png" alt="Mohamed Manea - Profile" width="150">
   </a>
   <h1>Hi there, I'm Mohamed Manea 👋</h1>
   <h3>A Flutter Developer from Egypt 🇪🇬</h3>
@@ -107,15 +106,39 @@ I'm a skilled Flutter Developer with 2+ years of experience specializing in buil
 A full Islamic mobile application with Quran, Hadith, Sebha, and Islamic content.  
 Built with clean architecture and smooth UI.
 
-🔗 Repository: **(Add link here)**  
+🔗 Repository: **((https://github.com/Mo7amedMane3/Blood_Bridge))**  
 **Tech:** Flutter • Dart • Assets • UI Design
 
 ---
 
-### 📝 Bookly App
-A simple and efficient notes application for creating and managing daily notes.
+### 📝 islami
 
-🔗 Repository: **(Add link here)**  
+
+🔗 Repository: **((https://github.com/Mo7amedMane3/islami))**  
+**Tech:** Flutter • Dart • Local Storage
+
+---
+
+### ECommerceApp
+
+
+🔗 Repository: **([https://github.com/Mo7amedMane3/E_CommerceApp))**
+**Tech:** Flutter • Dart • Local Storage
+
+---
+
+### todo_evently
+
+
+🔗 Repository: **(https://github.com/Mo7amedMane3/todo_evntly))**
+**Tech:** Flutter • Dart • Local Storage
+
+---
+
+### MovieApp
+
+
+🔗 Repository: **(https://github.com/Mohamed-Hessein/movie_c17))**
 **Tech:** Flutter • Dart • Local Storage
 
 ---
@@ -123,7 +146,7 @@ A simple and efficient notes application for creating and managing daily notes.
 ### 📊 Responsive Dashboard
 A responsive dashboard UI that adapts to different screen sizes.
 
-🔗 Repository: **(Add link here)**  
+🔗 Repository: **((https://github.com/Mo7amedMane3/responsive_dash_board))**  
 **Tech:** Flutter • Dart • Responsive UI
 
 
