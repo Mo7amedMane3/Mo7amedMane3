@@ -102,7 +102,7 @@ I'm a skilled Flutter Developer with 2+ years of experience specializing in buil
 
 ## 📂 Featured Projects
 
-### 📱 Blood Bridge
+###  Blood Bridge
 A full Islamic mobile application with Quran, Hadith, Sebha, and Islamic content.  
 Built with clean architecture and smooth UI.
 
@@ -111,7 +111,7 @@ Built with clean architecture and smooth UI.
 
 ---
 
-### 📝 islami
+###  islami
 
 
 🔗 Repository: **((https://github.com/Mo7amedMane3/islami))**  
@@ -143,7 +143,7 @@ Built with clean architecture and smooth UI.
 
 ---
 
-### 📊 Responsive Dashboard
+###  Responsive Dashboard
 A responsive dashboard UI that adapts to different screen sizes.
 
 🔗 Repository: **((https://github.com/Mo7amedMane3/responsive_dash_board))**  
